@@ -186,7 +186,6 @@ When contributing signature or detection rules:
 ## 📬 Contact & Author
 **Author:** Solution  
 **Repo:** `https://github.com/chromeheartbeat`  
-(Replace contact info in `README` with your preferred email/handle if you want employers to contact you)
 
 ---
 
@@ -198,25 +197,5 @@ urllib3>=1.26
 ```
 
 ---
-
-## 🧾 License
-This project is released under the **MIT License**. See `LICENSE` for details.
-
----
-
-## 🧭 Changelog (selected)
-- **v1.1.0 (2025-10-10)** — Patched: safer defaults, improved retry/backoff, precompiled CMS regex, better SSL parsing.
-- **v1.0.0** — Initial public release.
-
----
-
-## 🙌 Acknowledgements
-- Thanks to the open-source security community and contributors who keep detection signatures up to date.
-
----
-
-## 🔎 Final Notes (for hiring / portfolio)
-Add the following to your GitHub repo to impress recruiters:
-- A short demo GIF showing the scanner in action (menu selection + a couple of detections).
 - `EXAMPLES.md` with real-world sample outputs (redacted) and how to interpret them.
 - `SECURITY.md` with responsible disclosure instructions.
